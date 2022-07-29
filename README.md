@@ -4,7 +4,7 @@
 Most telecom companies suffer from voluntary churn. Churn rate has strong impact on the life time value of the customer because it affects the length of service and the future revenue of the company. 
 When a customer leaves, the company loses money spent on acquiring the customer and also future revenue that could have been generated from that customer. It also could destroy the brand image of the company
 
-## Explain your stakeholder audience and dataset choice here
+## Stakeholder audience 
 My client, Bambatel would like to find ways to decrease churn.
 Using the data provided, I would like to determine the features that affect churn,make appropriate recommendations and also create a model to identify customer churn behaviour from observations. 
 
