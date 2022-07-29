@@ -19,18 +19,18 @@ As can be seen, there is an imbalance in the dataset.
 My main aim was to find a good  accuracy and good precision since the goal was to reduce the misclassification of those who churn as not churning. The table below shows the different models used and the results of the two on the test data.
 
 
-Model	|#Accuracy |#Precision|#Recall
---- | --- | --- | --- |
+Model	|Accuracy |Precision|Recall
+
 Baseline	|0.85|	0.54	|0.17
---- | --- | --- | --- |
+
 Logistic Regression|	0.78|	0.395|	0.78
---- | --- | --- | --- |
+
 Decision Trees	|0.91	|0.7	|0.75
---- | --- | --- | --- |
+
 Random Forest|	0.93|	0.77|	0.76
---- | --- | --- | --- |
+
 XGBClassifier	|0.93	|0.9	|0.81
---- | --- | --- | --- |
+
 
 
 The choice was the final model: XGBClassifier with hyperparameters = {'learning_rate': 0.4, 'max_depth': 5, 'n_estimators': 180}
