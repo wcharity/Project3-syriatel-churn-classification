@@ -20,15 +20,15 @@ My main aim was to find a good  accuracy and good precision since the goal was t
 
 
 Model	|Accuracy |Precision|Recall
-
+--- | --- | --- | 
 Baseline	|0.85|	0.54	|0.17
-
+--- | --- | --- | 
 Logistic Regression|	0.78|	0.395|	0.78
-
+--- | --- | --- | 
 Decision Trees	|0.91	|0.7	|0.75
-
+--- | --- | --- | 
 Random Forest|	0.93|	0.77|	0.76
-
+--- | --- | --- | 
 XGBClassifier	|0.93	|0.9	|0.81
 
 
