@@ -35,7 +35,7 @@ XGBClassifier	|0.93	|0.9	|0.81
 
 The choice was the final model: XGBClassifier with hyperparameters = {'learning_rate': 0.4, 'max_depth': 5, 'n_estimators': 180}
 ### The confuson matrix:
-![matrix](https://user-images.githubusercontent.com/82956881/181810029-f0bd25b6-1536-41af-ab25-26d99e0c0445.png)
+![matrix ](https://user-images.githubusercontent.com/82956881/181811561-876a7f66-82d4-4846-9a22-e52532fbaff1.png)
 
 
 ## Conclusion
