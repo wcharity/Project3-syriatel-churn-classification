@@ -18,8 +18,8 @@ As can be seen, there is an imbalance in the dataset.
 ## Modeling and Evaluation
 My main aim was to find a good  accuracy and good precision since the goal was to reduce the misclassification of those who churn as not churning. The table below shows the different models used and the results of the two on the test data.
 
---- | --- | --- | --- |
-#### Model	|#### Accuracy |	#### Precision|	#### Recall
+
+Model	|#Accuracy |#Precision|#Recall
 --- | --- | --- | --- |
 Baseline	|0.85|	0.54	|0.17
 --- | --- | --- | --- |
