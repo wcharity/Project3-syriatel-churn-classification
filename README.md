@@ -42,16 +42,6 @@ The choice was the final model: XGBClassifier with hyperparameters = {'learning_
  Using the model, the features of the customer can predict whether  a customer will churn or not. Then the customers can be put into different groups and different marketing strategies can be used on them, one for retaining the customers who wont churn and another for holding onto the one who thinks of churning. Instead of wasting money on one marketing strategy for all
  
  More analysis and insights can be found in the notebook and powerpoint presentation in this repository
- 
- # Repository Structure
-├── code (working notebooks, named by stage of project)
-├── input_images (dataset used in training models)
-├── models (saved .h5 files of trained models and pickled training histories)
-├── other images (unused and not fully processed images)
-├── nyc_bike_lanes.ipynb
-├── nyc_bike_lanes_presentation.pdf
-├── functions.py (custom functions)
-├── model_tracker.csv
-└── README.md
+
  
  
